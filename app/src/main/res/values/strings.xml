@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FinScroll</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_progress">Progress</string>
+    
+    <!-- HomeScreen -->
+    <string name="daily_mix">Daily Mix</string>
+    <string name="swipe_up">Swipe up for next card</string>
+    <string name="swipe_down">Swipe down for previous</string>
+    <string name="tap_to_reveal">Tap to reveal answer</string>
+    <string name="loading">Loading financial wisdom...</string>
+    <string name="error_loading">Error loading cards</string>
+    <string name="retry">Retry</string>
+    <string name="no_cards">No cards available</string>
+    
+    <!-- SearchScreen -->
+    <string name="search_topics">Search topics...</string>
+    <string name="categories">Categories</string>
+    
+    <!-- ProgressScreen -->
+    <string name="your_progress">Your Progress</string>
+    <string name="learning_stats">Learning Stats</string>
+    <string name="cards_learned">Cards Learned</string>
+    <string name="current_streak">Current Streak</string>
+    <string name="topics_covered">Topics Covered</string>
+</resources>
